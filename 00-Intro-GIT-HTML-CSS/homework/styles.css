@@ -1,0 +1,19 @@
+    h1 {
+             color: brown;
+         }
+    img {
+            width: 400px;
+        }
+    #thirdDiv {
+            height: 600px ;
+            width: 500px;
+            background-color: wheat;
+            margin: 20px;
+            padding: 50px;
+            border: 5px solid tomato ;
+           
+        }
+    #spanId {
+            font-size: 25px;
+            margin: 50px;
+       }
